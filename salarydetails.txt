@@ -1,0 +1,4 @@
+naveen 101 20000
+pradeep 102 34000
+govinda 103 70000
+
