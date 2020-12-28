@@ -1,0 +1,8 @@
+# Total teams in hyd location 
+
+1.Kohls
+2.Apple
+3.Starbugs
+4.bigdata
+5.devoops
+
