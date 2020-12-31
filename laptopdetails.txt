@@ -4,3 +4,4 @@ Dell-200
 Apple-34
 Hp-300
 Lenovo-268
+asus-10

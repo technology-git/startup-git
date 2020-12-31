@@ -1,7 +1,0 @@
-#"Loptop Details of hyderanbad"
-
-
-Hp-200
-lenova-169
-mac-38
-Dell-200
